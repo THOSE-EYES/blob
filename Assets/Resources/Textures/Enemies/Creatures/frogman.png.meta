@@ -1,0 +1,1256 @@
+fileFormatVersion: 2
+guid: 127a66f8cafabde4ca57c8e9e8b18b17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1828771770621061315
+    second: frogman_0
+  - first:
+      213: 8833882179325671170
+    second: frogman_1
+  - first:
+      213: -3350334509796330807
+    second: frogman_2
+  - first:
+      213: -2068701305560773755
+    second: frogman_3
+  - first:
+      213: -1566162411499802644
+    second: frogman_4
+  - first:
+      213: -3077497416290271884
+    second: frogman_5
+  - first:
+      213: 9192420445387527109
+    second: frogman_6
+  - first:
+      213: 8461585349099599489
+    second: frogman_7
+  - first:
+      213: -6258604100896143231
+    second: frogman_8
+  - first:
+      213: 147460830865915647
+    second: frogman_9
+  - first:
+      213: -2317051973843779669
+    second: frogman_10
+  - first:
+      213: -3775219692999306657
+    second: frogman_11
+  - first:
+      213: 2800894005872057616
+    second: frogman_12
+  - first:
+      213: 3419654929272545169
+    second: frogman_13
+  - first:
+      213: -7489747258824559469
+    second: frogman_14
+  - first:
+      213: -8410409582079296739
+    second: frogman_15
+  - first:
+      213: -7787288628257130566
+    second: frogman_16
+  - first:
+      213: -6082101231636798909
+    second: frogman_17
+  - first:
+      213: 988698179498686297
+    second: frogman_18
+  - first:
+      213: 7245708468704394980
+    second: frogman_19
+  - first:
+      213: -6874004849635959714
+    second: frogman_20
+  - first:
+      213: 6348483537120388994
+    second: frogman_21
+  - first:
+      213: -5844791695539419693
+    second: frogman_22
+  - first:
+      213: 6565110086662175329
+    second: frogman_23
+  - first:
+      213: 7266850386554474437
+    second: frogman_24
+  - first:
+      213: -5573405544357992666
+    second: frogman_25
+  - first:
+      213: 3453731384773678345
+    second: frogman_26
+  - first:
+      213: 4643028230907881761
+    second: frogman_27
+  - first:
+      213: 5863410029834014227
+    second: frogman_28
+  - first:
+      213: -5618541910379171539
+    second: frogman_29
+  - first:
+      213: 270478621984943543
+    second: frogman_30
+  - first:
+      213: 8817991809757559787
+    second: frogman_31
+  - first:
+      213: -1531548724649367883
+    second: frogman_32
+  - first:
+      213: 3450060626268163351
+    second: frogman_33
+  - first:
+      213: -1606442643259769141
+    second: frogman_34
+  - first:
+      213: 2619904738981246268
+    second: frogman_35
+  - first:
+      213: -7606791977760361859
+    second: frogman_36
+  - first:
+      213: 2997511315257484994
+    second: frogman_37
+  - first:
+      213: 1044432941833682782
+    second: frogman_38
+  - first:
+      213: -9162110162689404059
+    second: frogman_39
+  - first:
+      213: -5529304088570391685
+    second: frogman_40
+  - first:
+      213: -3872301312134325013
+    second: frogman_41
+  - first:
+      213: -7064690530039878994
+    second: frogman_42
+  - first:
+      213: 6077758345473708224
+    second: frogman_43
+  - first:
+      213: 2787649835547909964
+    second: frogman_44
+  - first:
+      213: 7897019167756572247
+    second: frogman_45
+  - first:
+      213: -8776838586382334424
+    second: frogman_46
+  - first:
+      213: 1936067709653192552
+    second: frogman_47
+  - first:
+      213: 5672470208898959072
+    second: frogman_48
+  - first:
+      213: 500288149551026693
+    second: frogman_49
+  - first:
+      213: -8457131422223733982
+    second: frogman_50
+  - first:
+      213: -4262690619358919823
+    second: frogman_51
+  - first:
+      213: 806074656205178687
+    second: frogman_52
+  - first:
+      213: -4291901216500641340
+    second: frogman_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frogman_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 786
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c861237c3a116910800000000000000
+      internalID: 1828771770621061315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 786
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2073c56c901489a70800000000000000
+      internalID: 8833882179325671170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 786
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c27bd0a3883181d0800000000000000
+      internalID: -3350334509796330807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 786
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bc9af7f1f7a43e0800000000000000
+      internalID: -2068701305560773755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 690
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c39c5901b9029f70800000000000000
+      internalID: 9192420445387527109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 690
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1863bb92b079d6570800000000000000
+      internalID: 8461585349099599489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 690
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1884840dab8f429a0800000000000000
+      internalID: -6258604100896143231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 690
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffefb0a28d2eb0200800000000000000
+      internalID: 147460830865915647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 601
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d56813246ced620800000000000000
+      internalID: 2800894005872057616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 586
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f14b14a0e057f20800000000000000
+      internalID: 3419654929272545169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 594
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3947e4cec821f0890800000000000000
+      internalID: -7489747258824559469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_15
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 600
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b3f9c9b09384b80800000000000000
+      internalID: -8410409582079296739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 498
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957381381cf88bd00800000000000000
+      internalID: 988698179498686297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 498
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee3a2f767ded8460800000000000000
+      internalID: 7245708468704394980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 498
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cd2216201aa90a0800000000000000
+      internalID: -6874004849635959714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 498
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e97c24285a1850800000000000000
+      internalID: 6348483537120388994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 402
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf4d76dce909d460800000000000000
+      internalID: 7266850386554474437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 402
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6276953cf2947a2b0800000000000000
+      internalID: -5573405544357992666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 402
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9059d03556e1eef20800000000000000
+      internalID: 3453731384773678345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_27
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 405
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129ef5183995f6040800000000000000
+      internalID: 4643028230907881761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_28
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 402
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e08b04b540f5150800000000000000
+      internalID: 5863410029834014227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_29
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 399
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21743c96ede602b0800000000000000
+      internalID: -5618541910379171539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 306
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdefb6afdee0c300800000000000000
+      internalID: 270478621984943543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 306
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb37ecc4dccf5a70800000000000000
+      internalID: 8817991809757559787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b66217ac88debae0800000000000000
+      internalID: -1531548724649367883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_33
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 308
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d86424cd311ef20800000000000000
+      internalID: 3450060626268163351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce36706de4c4b9e0800000000000000
+      internalID: -1606442643259769141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_35
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 306
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35f650ba75cb5420800000000000000
+      internalID: 2619904738981246268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 210
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d727d4daffe3f6690800000000000000
+      internalID: -7606791977760361859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_37
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 210
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6e224e8ac499920800000000000000
+      internalID: 2997511315257484994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_38
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 210
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f76b91a329e7e00800000000000000
+      internalID: 1044432941833682782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 212
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563d6e79955a9d080800000000000000
+      internalID: -9162110162689404059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_40
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 210
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7395a91a37f343b0800000000000000
+      internalID: -5529304088570391685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_41
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 210
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec54f21972d24ac0800000000000000
+      internalID: -3872301312134325013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 114
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa28eca46d25fd90800000000000000
+      internalID: -7064690530039878994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 114
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c050ac8309885450800000000000000
+      internalID: 6077758345473708224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_44
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f520e71c8bfa620800000000000000
+      internalID: 2787649835547909964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_45
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 116
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756d496c719d79d60800000000000000
+      internalID: 7897019167756572247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_46
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8264dbfaec7623680800000000000000
+      internalID: -8776838586382334424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_47
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 114
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f8bfef25b4eda10800000000000000
+      internalID: 1936067709653192552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_48
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 18
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e68868d999a8be40800000000000000
+      internalID: 5672470208898959072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_49
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 18
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502935fdb6161f600800000000000000
+      internalID: 500288149551026693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_50
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 17
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b6f8f77cb32aa80800000000000000
+      internalID: -8457131422223733982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_51
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 16
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173c8b56771e7d4c0800000000000000
+      internalID: -4262690619358919823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_52
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 16
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f370e8901a0cf2b00800000000000000
+      internalID: 806074656205178687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogman_53
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 16
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c19963459a1074c0800000000000000
+      internalID: -4291901216500641340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
